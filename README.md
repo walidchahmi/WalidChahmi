@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="pro walid.png" width="180" style="border-radius: 50%;" alt="Walid Chahmi">
+  <a href="https://www.linkedin.com/in/walid-chahmi-6a394b279/" target="_blank">
+    <img src="pro walid.png" width="180" style="border-radius:50%; display:block; margin-left:auto; margin-right:auto;" alt="Walid Chahmi">
+  </a>
 </p>
 
 <h1 align="center">Walid Chahmi</h1>
@@ -12,7 +14,7 @@
 
 ### 👋 About Me
 - 💻 Web developer passionate about building real-world projects  
-- 🤖 Interested in artificial intelligence and automation  
+- 🤖 Interested in AI and automation  
 - 📚 Student focused on continuous learning and self-improvement  
 
 ### ⚙️ Tech Stack
@@ -26,4 +28,5 @@
 - Grow into a highly skilled software developer  
 
 ### 📫 Connect
-- GitHub: **WalidChahmi**
+- GitHub: **[WalidChahmi](https://github.com/WalidChahmi)**  
+- LinkedIn: **[Walid Chahmi](https://www.linkedin.com/in/walid-chahmi-6a394b279/)**
