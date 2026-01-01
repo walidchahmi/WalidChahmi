@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <p align="center">
-  <img src="profile.jpg" width="180" alt="Walid Chahmi">
+  <img src="pro walid.jpg" width="180" style="border-radius: 50%;" alt="Walid Chahmi">
 </p>
 
 <h1 align="center">Walid Chahmi</h1>
@@ -13,9 +11,9 @@
 ---
 
 ### 👋 About Me
-- 💻 Web Developer passionate about building real projects  
-- 🤖 Interested in AI, automation, and modern technologies  
-- 📚 Student constantly learning and improving  
+- 💻 Web developer passionate about building real-world projects  
+- 🤖 Interested in artificial intelligence and automation  
+- 📚 Student focused on continuous learning and self-improvement  
 
 ### ⚙️ Tech Stack
 - HTML • CSS • JavaScript  
@@ -23,6 +21,9 @@
 - Git & GitHub  
 
 ### 🚀 Goals
-- Build impactful web applications  
-- Master AI-powered tools  
-- Grow as a professional developer
+- Build professional and impactful web applications  
+- Develop strong skills in AI-powered tools  
+- Grow into a highly skilled software developer  
+
+### 📫 Connect
+- GitHub: **WalidChahmi**
