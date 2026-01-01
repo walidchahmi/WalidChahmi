@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pro walid.jpg" width="180" style="border-radius: 50%;" alt="Walid Chahmi">
+  <img src="pro walid.png" width="180" style="border-radius: 50%;" alt="Walid Chahmi">
 </p>
 
 <h1 align="center">Walid Chahmi</h1>
