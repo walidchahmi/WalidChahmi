@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**walidchahmi/WalidChahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="profile.jpg" width="180" alt="Walid Chahmi">
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Walid Chahmi</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Web Developer | AI Enthusiast
+</p>
+
+---
+
+### 👋 About Me
+- 💻 Web Developer passionate about building real projects  
+- 🤖 Interested in AI, automation, and modern technologies  
+- 📚 Student constantly learning and improving  
+
+### ⚙️ Tech Stack
+- HTML • CSS • JavaScript  
+- Python (beginner)  
+- Git & GitHub  
+
+### 🚀 Goals
+- Build impactful web applications  
+- Master AI-powered tools  
+- Grow as a professional developer
