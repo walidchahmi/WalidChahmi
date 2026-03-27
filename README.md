@@ -29,4 +29,4 @@
 
 ### 📫 Connect
 - GitHub: **[WalidChahmi](https://github.com/WalidChahmi)**  
-- LinkedIn: **[Walid Chahmi](https://www.linkedin.com/in/walid-chahmi-6a394b279/)**
+- LinkedIn: **[Walid Chahmi](https://www.linkedin.com/in/walidchahmi/)**
